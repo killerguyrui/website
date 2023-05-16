@@ -51,10 +51,10 @@ body {
   
   h1, h2, h3 {
     margin-top: 0;
-    color:#fff;
+    /*color:#fff;*/
+    color:#e238c6;
     padding: 20px;
-    /*background-color: #444;*/
-    background-color: #eb35cc;
+    background-color: #444;
   }
   
   section {
