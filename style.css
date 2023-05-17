@@ -49,9 +49,16 @@ body {
     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
   }
   
-  h1, h2, h3 {
+  h1 {
     margin-top: 0;
     text-align: center;
+    color:#fff;
+    padding: 20px;
+    background-color: #444;
+  }
+
+  h2, h3 {
+    margin-top: 0;
     color:#fff;
     padding: 20px;
     background-color: #444;
