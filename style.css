@@ -51,8 +51,7 @@ body {
   
   h1, h2, h3 {
     margin-top: 0;
-    /*color:#fff;*/
-    color:#e238c6;
+    color:#fff;
     padding: 20px;
     background-color: #444;
   }
